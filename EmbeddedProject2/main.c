@@ -1,6 +1,6 @@
 #include "main.h"
 
-#define DEBUG 1
+
 
 /*Ó²¼þ³õÊ¼»¯*/
 void Hardware_Init(void)
